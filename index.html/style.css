@@ -1,0 +1,45 @@
+
+
+
+
+
+button{
+    color: white;
+    background-color: red;
+}
+
+.contenair{
+    background: white;
+    padding: 40px 350px ;
+
+    text-align: center;
+}
+
+h2{
+    color:blueviolet ;
+    margin-bottom: 10px;
+    font-size: 55px;
+    padding: 30px;
+}
+
+span{
+    border-bottom: 5px solid blueviolet;
+}
+
+label{
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    font-weight: 600;
+    gap: 2px;
+    color: black;
+    font-size: 20px;
+
+}
+
+input{
+    width: 100px;
+    padding-left: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
